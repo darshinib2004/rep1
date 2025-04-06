@@ -1,7 +1,7 @@
 function calculateLoan() {
-    loanAmountValue = document.getElementById("loan-amount").value;
+    loanAmountValue = document.getElementById("loan_amount").value;
   
-    interestRateValue = document.getElementById("interest-rate").value;
+    interestRateValue = document.getElementById("interest_rate").value;
   
     MonthsToPayValue = document.getElementById("months-to-pay").value;
   
